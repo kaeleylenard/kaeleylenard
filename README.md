@@ -1,4 +1,4 @@
-### A designer with some dev experience 🎨 
+### A designer with a bit of dev experience 🎨 
 
 Passionate about good color palettes and making sure web and mobile apps are accessible, responsive, and engaging. Learn more: https://www.kaeley.tech
 
