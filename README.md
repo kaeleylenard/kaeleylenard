@@ -1,6 +1,7 @@
 ### A designer with some dev experience 🎨 
 
-Passionate about good color palettes and making sure web and mobile apps are accessible, responsive, and engaging. Check out my portfolio @ https://www.kaeley.tech!
+Passionate about good color palettes and making sure web and mobile apps are accessible, responsive, and engaging.
+👩‍💻 https://www.kaeley.tech
 
 <!--
 **kaeleylenard/kaeleylenard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
