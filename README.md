@@ -1,6 +1,6 @@
-### A designer with a [bit] of dev experience 🎨 
+### a designer with a bit of dev experience 🎨 
 
-Currently compiling postgrad experiences 🏗 Check back soon!
+currently compiling postgrad experiences 🏗 check back soon!
 
 <!--
 **kaeleylenard/kaeleylenard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
