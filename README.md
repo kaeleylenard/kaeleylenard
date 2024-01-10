@@ -1,7 +1,6 @@
-### A designer with a bit of dev experience 🎨 
+### A designer with a [bit] of dev experience 🎨 
 
-Passionate about good color palettes and making sure web and mobile apps are accessible, responsive, and engaging.<br />
-Learn more about me: https://www.kaeley.tech ✨ 
+Currently compiling postgrad experiences 🏗 Check back soon!
 
 <!--
 **kaeleylenard/kaeleylenard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
