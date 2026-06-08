@@ -1,7 +1,7 @@
 ### (i'm usually a designer)
 
 🌿 aka kale  
-🎨 design systems are life
+🎨 design systems are life  
 🤖 currently pioneering AI usage in my component process
 
 <!--
