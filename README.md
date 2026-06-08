@@ -1,8 +1,8 @@
 ### (i'm usually a designer)
 
 🌿 aka kale  
-🎨 interaction, visual, and all things product  
-🏗 currently compiling postgrad experiences  
+🎨 design systems are life
+🤖 currently pioneering AI usage in my component process
 
 <!--
 **kaeleylenard/kaeleylenard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
