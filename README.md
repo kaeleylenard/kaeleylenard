@@ -2,7 +2,7 @@
 
 🌿 aka kale  
 🎨 design systems are life  
-🤖 currently pioneering AI usage in my component process
+📄 new portfolio site coming soon
 
 <!--
 **kaeleylenard/kaeleylenard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
